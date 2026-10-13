@@ -1,0 +1,6 @@
+{
+  "name": "Billora",
+  "description": "Billora — Invoice & Receipt Maker by SimeonJr Studios. Fast, offline-first invoice and receipt generator with instant PDF export, customer management, and multi-currency support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
